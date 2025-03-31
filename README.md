@@ -18,7 +18,7 @@
 
 - **[heavenring](https://github.com/heavenring)**: 
   - Python을 사용하여 **팀만들기 기능**, **투표 기능**, **뽑기 기능** 구현
-  - API를 활용한 "자격증 일정 조회 기능" 구현
+  - API를 활용한 **자격증 일정 조회 기능** 구현
   - **chromedriver_autoinstaller**를 사용하여 "공지 기능" 구현
 
 - **[Baby0327](https://github.com/Baby0327)**: 
